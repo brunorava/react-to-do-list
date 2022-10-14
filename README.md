@@ -1,4 +1,4 @@
-cls# To do List
+# To do List
 
 Projeto em React + Typescript fazendo uma lista de tarefas.
 
